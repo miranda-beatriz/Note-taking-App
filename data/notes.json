@@ -1,0 +1,51 @@
+{
+  "rootNotebook": {
+    "id": "root",
+    "name": "Root",
+    "notes": [
+      {
+        "id": "note-1762645632165",
+        "title": "Shopping list",
+        "content": "Buy milk and bread",
+        "createdAt": "2025-11-09T00:02:35.972Z",
+        "updatedAt": "2025-11-09T00:02:35.972Z"
+      },
+      {
+        "id": "note-1762646004351",
+        "title": "Mental Health",
+        "content": "Meditate 5 minutes each day",
+        "createdAt": "2025-11-09T00:02:35.972Z",
+        "updatedAt": "2025-11-09T00:02:35.972Z"
+      }
+    ],
+    "children": [
+      {
+        "id": "notebook-1762645587491",
+        "name": "School",
+        "notes": [],
+        "children": []
+      },
+      {
+        "id": "notebook-1762645965381",
+        "name": "Mental Health",
+        "notes": [
+          {
+            "id": "note-1762646464403",
+            "title": "Daily Rule",
+            "content": "Only 10 minutes off social media per day",
+            "createdAt": "2025-11-09T00:02:35.972Z",
+            "updatedAt": "2025-11-09T00:02:35.972Z"
+          },
+          {
+            "id": "note-1762646555972",
+            "title": "Read a book",
+            "content": "",
+            "createdAt": "2025-11-09T00:02:35.972Z",
+            "updatedAt": "2025-11-09T00:02:35.972Z"
+          }
+        ],
+        "children": []
+      }
+    ]
+  }
+}
