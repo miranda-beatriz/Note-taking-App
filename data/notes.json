@@ -7,15 +7,15 @@
         "id": "note-1762645632165",
         "title": "Shopping list",
         "content": "Buy milk and bread",
-        "createdAt": "2025-11-09T00:02:35.972Z",
-        "updatedAt": "2025-11-09T00:02:35.972Z"
+        "createdAt": "2025-11-09T00:31:15.239Z",
+        "updatedAt": "2025-11-09T00:31:15.239Z"
       },
       {
         "id": "note-1762646004351",
         "title": "Mental Health",
         "content": "Meditate 5 minutes each day",
-        "createdAt": "2025-11-09T00:02:35.972Z",
-        "updatedAt": "2025-11-09T00:02:35.972Z"
+        "createdAt": "2025-11-09T00:31:15.239Z",
+        "updatedAt": "2025-11-09T00:31:15.239Z"
       }
     ],
     "children": [
@@ -23,7 +23,22 @@
         "id": "notebook-1762645587491",
         "name": "School",
         "notes": [],
-        "children": []
+        "children": [
+          {
+            "id": "notebook-1762648060386",
+            "name": "Assignment due date",
+            "notes": [
+              {
+                "id": "note-1762648153604",
+                "title": "Week 2",
+                "content": "Week 3",
+                "createdAt": "2025-11-09T00:31:15.239Z",
+                "updatedAt": "2025-11-09T00:31:15.240Z"
+              }
+            ],
+            "children": []
+          }
+        ]
       },
       {
         "id": "notebook-1762645965381",
@@ -33,15 +48,15 @@
             "id": "note-1762646464403",
             "title": "Daily Rule",
             "content": "Only 10 minutes off social media per day",
-            "createdAt": "2025-11-09T00:02:35.972Z",
-            "updatedAt": "2025-11-09T00:02:35.972Z"
+            "createdAt": "2025-11-09T00:31:15.239Z",
+            "updatedAt": "2025-11-09T00:31:15.239Z"
           },
           {
             "id": "note-1762646555972",
             "title": "Read a book",
             "content": "",
-            "createdAt": "2025-11-09T00:02:35.972Z",
-            "updatedAt": "2025-11-09T00:02:35.972Z"
+            "createdAt": "2025-11-09T00:31:15.239Z",
+            "updatedAt": "2025-11-09T00:31:15.239Z"
           }
         ],
         "children": []
